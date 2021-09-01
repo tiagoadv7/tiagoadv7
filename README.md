@@ -1,4 +1,4 @@
-# ## Olá! Eu sou o Tiago Lima 🖐️
+#  Olá! Eu sou o Tiago Lima 🖐️
 
 [![Blog](https://img.shields.io/website?label=tiagolima7dev.com&style=for-the-badge&url=https://tiagolima7dev.netlify.app/)](https://tiagolima7dev.netlify.app/)
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/tiagolimadbvs7/)
