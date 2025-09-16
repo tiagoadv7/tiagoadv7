@@ -27,7 +27,7 @@ Apaixonado por tecnologias, educação e por mudar a vida das pessoas através d
 <img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" min-width="400px" max-width="400px" width="400px" align="right" alt="Computador iuriCode"> -->
 
 <p align="left"> 
-  Tenho 30 anos e sou Desenvolvedor <strong>Formado em Análise e Desenvolvimento de Sistemas,</strong> e <strong>Técnico em Informática</strong>.<br>
+  Tenho 30 anos sou<strong>Formado em Análise e Desenvolvimento de Sistemas,</strong> e <strong>Técnico em Informática</strong>.<br>
 </p>
 <p align="left"> 
  Tudo é possivel com Tecnologia! <br>
