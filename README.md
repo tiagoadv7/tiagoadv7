@@ -56,7 +56,7 @@ Apaixonado por tecnologias, educação e por mudar a vida das pessoas através d
 <code><img height="32" src="https://skillicons.dev/icons?i=mysql&theme=dark" alt="mysql"/></code>
 <code><img height="32" src="https://skillicons.dev/icons?i=postgres&theme=dark" alt="postgres"/></code>
 <code><img height="32" src="https://skillicons.dev/icons?i=sqlite&theme=dark" alt="sqllite"/></code>
-<code><img height="32" src="https://www.logo.wine/a/logo/Oracle_SQL_Developer/Oracle_SQL_Developer-Logo.wine.svg" alt="sqldeveloper"/></code>
+<code><img height="32" src="https://www.oracle.com/a/ocom/img/sql-dev3.svg" alt="sqldeveloper"/></code>
 
 <code><img height="32" src="https://skillicons.dev/icons?i=postman&theme=dark" alt="postman"/></code>
 <code><img height="32" src="https://skillicons.dev/icons?i=github&theme=dark" alt="github"/></code>
